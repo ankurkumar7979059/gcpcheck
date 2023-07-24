@@ -1,5 +1,4 @@
 resource "google_storage_bucket" "auto-expire" {
-  name = "adfsasfdfsasf324"
-    location ="US"
-
+  name = "abcdefg1235"
+  location ="US"
 }
